@@ -1,0 +1,3 @@
+[submodule "hRPG-lite-redux"]
+	path = hRPG-lite-redux
+	url = https://github.com/AntJanus/hRPG-lite-redux.git
