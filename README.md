@@ -2,9 +2,11 @@
 
 An electron wrapper for [hRPG Lite Redux](https://github.com/AntJanus/hRPG-lite-redux).
 
+![screenshot](screenshot.png)
+
 ### Goals
 
 - [x] wrapper
-- [ ] save state and login
+- [x] save state and login
 - [ ] two-way sync (save actions until Internet connection)
-- [ ] icon
+- [x] icon
